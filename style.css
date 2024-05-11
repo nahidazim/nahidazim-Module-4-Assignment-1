@@ -1,0 +1,27 @@
+/* Additional custom CSS */
+    /* Navbar brand image size for smaller devices */
+    .navbar-brand img {
+        width: 70px;
+        height: auto;
+      }
+  
+      /* Small box style */
+      .expertise-box {
+        background-color: #f0f0f0;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        padding: 5px 5px;
+        margin-bottom: 5px;
+        width: calc(110px);
+        margin-right: 5px;
+        margin-left: 5px; 
+        display: inline-block;
+      }
+  
+      /* Background image */
+      body {
+        background-image: url('image/background\ image10.jpg');
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+      }
